@@ -5,6 +5,6 @@
 - 📫 How to reach me, instagram: @jelly.fish.arts, email: ihavenoideaonegatimdoing@gmail.com
 
 <!---
-hatdunrmeek/hatdunrmeek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hatdunrmeek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
